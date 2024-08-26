@@ -11,6 +11,6 @@
     "@slidev/theme-default": "^0.21.2"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.37.1"
+    "playwright-chromium": "^1.46.1"
   }
 }

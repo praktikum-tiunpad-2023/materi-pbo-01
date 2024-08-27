@@ -8,9 +8,10 @@ Contoh penggunaan Built-in Methods:
 ```java {all|5|all}
 public class Test{
   public static void main(String args[]){
-    String word1 = "Blood";
-    String word2 = "Moon";
-    System.out.println(word1.concat(word2));
+    String word1 = "Pemrograman";
+    String word2 = "Berbasis";
+    String word3 = "Objek";
+    System.out.println(word1.concat(word2).concat(word3));
   }
 }
 ```

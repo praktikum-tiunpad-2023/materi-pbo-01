@@ -14,8 +14,8 @@ public class Test {
     int age = Integer.parseInt(sc.nextLine());
 
     // Output dengan System.out
-    System.out.println("Thy shall know i as " + name);
-    System.out.println("for i ame " + age + " years old.");
+    System.out.println("Namaku adalah " + name);
+    System.out.println("Umurku " + age + " tahun.");
 
     // Menutup objek scanner supaya tidak terjadi memory leak
     sc.close();

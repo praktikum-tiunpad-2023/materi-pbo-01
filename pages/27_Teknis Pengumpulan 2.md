@@ -13,10 +13,10 @@ Cara menambah comment di java
 Contoh Format
 ```java {all}
 /*	
-  Nama	: Jane Doe
-  NPM		: 99
+  Nama	    : Jane Doe
+  NPM		: 140810230099
   Kelas		: A
-  Tanggal	: 1 September 2021
+  Tanggal	: 28 Agustus 2024
   Deskripsi	: Class jawaban exercise-01 soal-01
 */
 

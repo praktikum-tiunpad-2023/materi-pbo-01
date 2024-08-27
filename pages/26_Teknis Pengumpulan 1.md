@@ -16,7 +16,7 @@ Pengerjaan dan pengumpulan tugas akan dilakukan di **Github Classroom**
   <div>
 
   #### Kelas B:
-  [Link Tugas Kelas B](https://classroom.github.com/a/VsjU0asM)
+  [Link Tugas Kelas B](https://classroom.github.com/a/r6IliVHq)
   
   </div>
 </div>
